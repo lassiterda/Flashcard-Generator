@@ -1,0 +1,29 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Simple CLI app to build Flashcards (simple and cloze) and place them in decks.",
+  "main": "flashcards.js",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node flashcards create basic"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lassiterda/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "constructors",
+    "flashcard",
+    "node",
+    "CLI"
+  ],
+  "author": "David Lassiter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lassiterda/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/lassiterda/Flashcard-Generator#readme"
+}
